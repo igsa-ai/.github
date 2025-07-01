@@ -7,8 +7,8 @@ IGSAチームのGitHub Organizationへようこそ！
 私たちのリポジトリは以下のカテゴリに分類されます：
 
 ### 📋 タスク管理
-- **Business-development** - ビジネス開発チームのタスクとプロジェクト管理
-- **Designer** - デザインチームのタスクとプロジェクト管理
+- [**Business-development**](https://github.com/igsa-ai/Business-development) - ビジネス開発チームのタスクとプロジェクト管理
+- [**Designer**](https://github.com/igsa-ai/Designer) - デザインチームのタスクとプロジェクト管理
 
 ### 🤝 パートナー事業
 - **パートナー事業のプロジェクトごとのリポジトリ** - クライアント別のプロジェクト管理とコードベース
@@ -50,4 +50,4 @@ sugutori_{content}_production
 
 ## 📞 お問い合わせ
 
-ご質問やご提案がございましたら、お気軽にIssueを作成するか、チームメンバーまでご連絡ください。
+ご質問やご提案がございましたら、[Discussions](https://github.com/orgs/igsa-ai/discussions) にてお気軽にご投稿ください。
